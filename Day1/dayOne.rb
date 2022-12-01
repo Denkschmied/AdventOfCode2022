@@ -1,8 +1,12 @@
 # Define empty array
 b = []
 
+# Set path
+path = 'Day1/input.txt'
+# path = 'Day1/test_txt.txt'
+
 # Open File
-file = File.open('Day1/input.txt')
+file = File.open(path)
 
 # Read content of file
 file_data = file.read
