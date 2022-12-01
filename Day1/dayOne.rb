@@ -3,7 +3,7 @@ b = []
 
 # Set path
 path = 'Day1/input.txt'
-# path = 'Day1/test_txt.txt'
+# path = 'Day1/test.txt'
 
 # Open File
 file = File.open(path)
