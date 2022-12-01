@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     childprocess (4.1.0)
+    ffi (1.15.5-x64-mingw-ucrt)
     nokogiri (1.13.9-x64-mingw-ucrt)
       racc (~> 1.4)
     racc (1.6.0)
@@ -26,6 +27,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  ffi (>= 1.0.11)
   nokogiri (~> 1.11, >= 1.11.7)
   watir (~> 6.19, >= 6.19.1)
   webdrivers (~> 4.6)

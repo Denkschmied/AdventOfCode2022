@@ -1,4 +1,3 @@
-require 'ffi'
 require 'watir'
 require 'webdrivers'
 require 'nokogiri'
