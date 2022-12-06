@@ -26,7 +26,7 @@ file_data.split(//).each do |sign|
   end
   puts a.inspect
   if a.length==4
-    puts "a is no 4 long"
+    puts "a is now 4 long"
     if a.any?{|el|a.count(el)>1}==false
       puts "FOUND UNIQUE SEGMENT"
       puts n+1
