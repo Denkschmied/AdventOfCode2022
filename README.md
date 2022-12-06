@@ -14,4 +14,4 @@ The weekend was great. A lot of programming flow. I managed to solve the problem
 I am feeling better in handling Ruby. With this confidence, the challenge of day 5 was nice. 
 
 ## 2022-12-06
-Sliding window problem - yeah! It was a pleasure :-) I was confused about the re-arrangement of the test inpu results but finally got it right.
+Sliding window problem - yeah! It was a pleasure :-) I was confused about the re-arrangement of the test input results but finally got it right.
