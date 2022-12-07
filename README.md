@@ -15,3 +15,6 @@ I am feeling better in handling Ruby. With this confidence, the challenge of day
 
 ## 2022-12-06
 Sliding window problem - yeah! It was a pleasure :-) I was confused about the re-arrangement of the test input results but finally got it right.
+
+## 2022-12-07
+This was a hard nut!!! Damm it. Finally, I found a - for me - smart solution. It took a lot of brainwork...
