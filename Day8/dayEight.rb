@@ -156,8 +156,8 @@ A.each do |line|
       # look right
       right = 1
       puts "length of for loop is #{line.length-1}"
-      for n in x+1..(line.length-1) do
-        if A[y][n].to_i >= tree.to_i
+      for n in 1..(line.length) do
+        if A[y][x+n].to_i >= tree.to_i
           if n == x+1
             right = 1
           else
@@ -165,9 +165,9 @@ A.each do |line|
           end
           break
         else
-          #if n > 1
-            #right += 1
-            #end
+          if n > 1
+            right += 1
+          end
         end
         puts right
       end
