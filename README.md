@@ -21,3 +21,6 @@ This was a hard nut!!! Damm it. Finally, I found a - for me - smart solution. It
 
 ## 2022-12-08
 I must confess that I am addicted to the AoC.... I tried today and finally solved the first part of the puzzle. However, I was not able to solve the second part. I am sure that I have missed something. I was not able to find a way for getting the numbers of visible trees correct. And I think that the same approach of the first part can be used for the second part.
+
+## 2022-12-09
+Back on track! The first time, I have built Snake with Ruby! That was nice.
