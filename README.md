@@ -24,3 +24,6 @@ I must confess that I am addicted to the AoC.... I tried today and finally solve
 
 ## 2022-12-09
 Back on track! The first time, I have built Snake with Ruby! That was nice.
+
+## 2022-12-10
+This was a nice one. Didn't recognize at first, that the position of the sprite is only between 1 and 40. Finally solved it.
