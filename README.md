@@ -27,3 +27,6 @@ Back on track! The first time, I have built Snake with Ruby! That was nice.
 
 ## 2022-12-10
 This was a nice one. Didn't recognize at first, that the position of the sprite is only between 1 and 40. Finally solved it.
+
+## 2022-12-11
+Have I mentioned that I am addicted to AoC? I started today at 6:30 and finished a bit later (don't ask when). The first part was straight forward. The second part was tricky. I removed the division by 3 and run into a memory allocation problem. The next approach was to write the read files. Didn't solve the problems with the large numbers. So I searched and finally found a solution for the problem. This is obvious now - normalize the number by the modulus of the product of all modulus. 
